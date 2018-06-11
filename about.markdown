@@ -3,7 +3,7 @@ title: About
 date: 2018-06-11 16:11:00 Z
 ---
 
-Cauatro Consultants, Ltd. offers a full range of civil engineering, and consulting services.  This includes land entitlement, land development consulting, local, state and federal permitting, public works design, floodplain analysis, structural design, and construction administration services.
+Cuatro Consultants, Ltd. offers a full range of civil engineering, and consulting services.  This includes land entitlement, land development consulting, local, state and federal permitting, public works design, floodplain analysis, structural design, and construction administration services.
 
 Our Mission is to provide an integrated, practical approach to the design and construction of land development and building projects.   Our Staff is experienced in land development, consulting, construction of civil projects, and project administration.  Cuatro teams with planning, geotechnical, traffic, surveying, and other specialty firms to provide a "one-stop" shop for our Clients.
 
