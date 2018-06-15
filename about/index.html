@@ -17,7 +17,7 @@
 		<div class="navbar-logo">
 			<a href="/http://cuatroconsulting.siteleaf.net">
 				
-					<img src="images/logo.png" class="navbar-image"></img>
+					<img src="assets/images/logo.png" class="navbar-image"></img>
 				
 			</a>
 		</div>
