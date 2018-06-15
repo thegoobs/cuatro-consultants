@@ -58,7 +58,7 @@ Address: |-
   3601 Kyle Crossing
   Kyle, Texas 78640
 markdown: kramdown
-logo: assets/images/logo.png
+logo: images/logo.png
 hero:
 - images/hero/hero1.png
 - images/hero/hero2.png
