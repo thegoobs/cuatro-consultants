@@ -1,7 +1,5 @@
 ---
 title: Cuatro Consultants
-Description: >-
-  Cuatro Consultants, Ltd. is a civil engineering/consulting Firm offering a full range of design, permitting, and land development services throughout the Austin metropolitan and Central Texas area.  We serve a diverse Clientele ranging from individuals and small local companies to large national corporations.  We assist our Clients through all phases of their Projects, starting with concept development and ending with construction completion.
 timezone: UTC
 collections:
   associates:
@@ -46,6 +44,12 @@ defaults:
     type: pages
   values:
     layout: page
+Description: Cuatro Consultants, Ltd. is a civil engineering/consulting Firm offering
+  a full range of design, permitting, and land development services throughout the
+  Austin metropolitan and Central Texas area.  We serve a diverse Clientele ranging
+  from individuals and small local companies to large national corporations.  We assist
+  our Clients through all phases of their Projects, starting with concept development
+  and ending with construction completion.
 permalink: pretty
 Email: cuatro@cuatroconsultants.com
 Phone: "(512) 312-5040"
@@ -53,17 +57,13 @@ Fax: "(512) 312-5399"
 Address: |-
   3601 Kyle Crossing
   Kyle, Texas 78640
-
-# Build settings
 markdown: kramdown
 logo: assets/images/logo.png
 hero:
-  - images/hero/hero1.png
-  - images/hero/hero2.png
-  - images/hero/hero3.png
-  - images/hero/hero4.png
-
+- images/hero/hero1.png
+- images/hero/hero2.png
+- images/hero/hero3.png
+- images/hero/hero4.png
 plugins:
-  - jekyll-remote-theme
-
+- jekyll-remote-theme
 remote_theme: thegoobs/cuatro-theme

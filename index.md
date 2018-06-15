@@ -1,7 +1,7 @@
 ---
 title: Home
-layout: default
 date: 2018-06-11 16:12:00 Z
+layout: default
 visible: true
 ---
 
