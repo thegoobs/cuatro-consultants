@@ -2,7 +2,7 @@
 title: Unifirst No. 871
 date: 2018-06-11 15:46:00 Z
 Location: San Antonio, Bexar County, Texas
-Image: 
+Image: "/uploads/unifirst.jpg"
 ---
 
 The Project consisted of re-developing an existing 7.69 acre facility located at 3067 East Commerce Street in east San Antonio.
