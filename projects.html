@@ -1,0 +1,43 @@
+---
+title: Projects
+layout: page
+visible: true
+---
+
+{% assign project_list = site.collections | where:'project_list', true %}
+
+<br/>
+<div class="projects-list-container">
+	{% for list in project_list %}
+		<h5 class="projects-list-entry" target="{{forloop.index}}"{% if forloop.index == 1 %} style="text-decoration: underline" {% endif %}>
+			{{list.title}}
+		</h5>
+	{% endfor %}
+</div>
+<br/>
+
+{% for list in project_list %}
+	<ul class="projects-list" target="{{forloop.index}}" {% if forloop.index == 1 %} style="display: block" {% endif %}>
+		<h1 style="text-align: center; text-decoration: none"> {{ list.title }} </h1>
+		<hr/>
+		{% for project in list.docs %}
+		<li>
+			<div class="project-entry">
+				{% if project.Image %} <img src="{{'assets/images/hero/hero1.png' | relative_url}}"/> {% endif %}
+				<div>
+					<h2>
+						{{project.title}}
+					</h2>
+
+					<p>
+						{{project.output}}
+					</p>
+				</div>
+			</div>
+			<hr/>
+		</li>
+		{% endfor %}
+	</ul>
+{% endfor %}
+
+<script src="{{'assets/js/project-list.js' | relative_url }}"></script>
