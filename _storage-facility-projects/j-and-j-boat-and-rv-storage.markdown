@@ -2,7 +2,7 @@
 title: J&J Boat and RV Storage
 date: 2018-06-11 15:51:00 Z
 Location: Kendall County, Texas
-Image: 
+Image: "/uploads/J&J%20RV.jpg"
 ---
 
 The proposed Project consists of a 14.33 acre tract located at FM 3351 and Guthrie Road.  The Project lies in Kendall County in the Cibolo Creek watershed. 

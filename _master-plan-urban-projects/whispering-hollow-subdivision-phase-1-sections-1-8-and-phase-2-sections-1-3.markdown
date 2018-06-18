@@ -2,7 +2,7 @@
 title: 'Whispering Hollow Subdivision: Phase 1 Sections 1-8 and Phase 2 Sections 1-3'
 date: 2018-06-11 15:27:00 Z
 Location: Buda, Hays County, Texas
-Image: 
+Image: "/uploads/Whispering%20Hollow%20Subdivision%20Entrance%202%20(10).jpg"
 ---
 
 The Whispering Hollow Subdivision is a development of approximately 825 lots on a 235 acre tract located in Hays County approximately 1.5 miles west of the City of Buda near FM 967 and FM 1626.  The work included erosion/sedimentation control, street excavation and embankment, flexible base improvements, HMAC, water distribution mains,  water quality ponds, service connections, electrical service including street light improvements and miscellaneous improvements to complete this urban subdivision.

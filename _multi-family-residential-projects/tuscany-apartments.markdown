@@ -2,7 +2,7 @@
 title: Tuscany Apartments
 date: 2018-06-11 15:53:00 Z
 Location: Buda, Hays County, Texas
-Image: 
+Image: "/uploads/tuscany-park-at-buda-buda-tx-primary-photo.jpg"
 ---
 
 The Tuscany Apartment complex is located in the City of Buda on 13 acres of land. The Project is located on FM 2001 just east of Interstate Highway 35.

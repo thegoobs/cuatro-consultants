@@ -2,7 +2,7 @@
 title: Hays Junction Apartments Phase 1 and 2
 date: 2018-06-11 15:54:00 Z
 Location: Kyle, Hays County, Texas
-Image: 
+Image: "/uploads/hays%20junction.jpg"
 ---
 
 This apartment complex is in the City of Kyle contains 309 housing units on 15.35 acres. The Project is located in Hays County on Bebee Road just east of Interstate Highway 35.
