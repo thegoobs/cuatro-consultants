@@ -23,7 +23,7 @@ visible: true
 		{% for project in list.docs %}
 		<li>
 			<div class="project-entry">
-				{% if project.Image %} <img src="{{'assets/images/hero/hero1.png' | relative_url}}"/> {% endif %}
+				{% if project.Image %} <img src="{{project.Image}}"/> {% endif %}
 				<div>
 					<h2>
 						{{project.title}}
