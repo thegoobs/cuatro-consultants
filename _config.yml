@@ -11,27 +11,38 @@ collections:
   multi-family-residential-projects:
     title: Multi Family Residential Projects
     output: true
+    project_list: true
+    image: ""
   posts:
     title: Posts
     output: true
   public-works-projects:
     title: Public Works Projects
     output: true
-  rural-projects:
-    title: Rural Projects
+    project_list: true
+    image: ""
+  master-plan-rural-projects:
+    title: Master Plan Rural Projects
     output: true
+    project_list: true
+    image: ""
   site-development-projects:
     title: Site Development Projects
     output: true
+    project_list: true
+    image: ""
   storage-facility-projects:
     title: Storage Facility Projects
     output: true
+    project_list: true
+    image: ""
   uploads:
     title: Uploads
     output: true
-  projects:
-    title: Urban Projects
+  master-plan-urban-projects:
+    title: Master Plan Urban Projects
     output: false
+    project_list: true
 defaults:
 - scope:
     path: ''

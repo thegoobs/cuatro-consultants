@@ -9,4 +9,4 @@ Cuatro Consultants, Ltd. has been satisfying Clients since 2001 and has built an
 
 Cuatro professionals have extensive construction experience and we value-engineer our projects during each phase of design.
 
-Let our team at Cuatro Consultants Ltd. be a part of your next Project or development venture.  Our professional staff will assist through each phase of Project development and see its successful completion.
+__Let our team at Cuatro Consultants Ltd. be a part of your next Project or development venture.  Our professional staff will assist through each phase of Project development and see its successful completion.__
