@@ -2,7 +2,7 @@
 title: 'Lantana Ridge Subdivision: Units 1-9'
 date: 2018-06-11 15:31:00 Z
 Location: Comal County, Texas
-Image: 
+Image: "/uploads/Lantana-Ridge-Entry.jpg"
 ---
 
 This 628 acre subdivision required Comal County approval and extensive floodplain analysis and FEMA map revisions.  This subdivision has underground electric and telecommunications, 368 lots, and multi-plate arch bridges.  Lots in this rural subdivision are 1.0 acre and larger.  Units 1-8 are complete, with Unit 9 under construction.
