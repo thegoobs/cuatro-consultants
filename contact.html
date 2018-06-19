@@ -1,0 +1,53 @@
+---
+title: Contact Us
+layout: page
+visible: true
+---
+
+<div class="contact-container">
+	<div>
+		<h3>Phone</h3>
+		<p>
+			{{site.Phone}}
+			<br/>
+			Fax: {{site.Fax}}
+		</p>
+	</div>
+	<div>
+		<h3>Email</h3>
+		<p>
+			{{site.Email}}
+		</p>
+	</div>
+	<div>
+		<h3>Address</h3>
+		<p>
+			{{site.Address}}
+		</p>
+	</div>
+</div>
+<hr/>
+
+<br/>
+
+<h1 style="text-align: center;">Employees</h1>
+<div class="employee-container">
+	{% assign employees = site.employees | sort: 'order' %}
+	{% for employee in employees %}
+		<div class="employee-entry">
+			<h3 class="employee-title">
+				{{employee.title}}
+			</h3>
+
+			<h4 class="employee-subtitle">
+				{{employee.Position}}
+			</h4>
+			<p>
+				{{employee.Phone}}
+			</p>
+			<a href="mailto:{{employee.Email}}">
+				{{employee.Email}}
+			</a>
+		</div>
+	{% endfor %}
+</div>
