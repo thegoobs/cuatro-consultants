@@ -1,0 +1,23 @@
+---
+title: Associates
+layout: page
+visible: true
+---
+
+<div class="associate-container">
+	{% for associate in site.associates %}
+		<div class="associate-entry">
+			<a href="{{associate.URL}}">
+				<h3 class="associate-title">
+					{{associate.title}}
+				</h3>
+			</a>
+
+			<p class="associate-subtitle">
+				{{- associate.Info | lstrip -}}
+			</p>
+		</div>
+	{% endfor %}
+</div>
+
+<br/>
