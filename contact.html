@@ -2,6 +2,7 @@
 title: Contact Us
 layout: page
 visible: true
+order: 5
 ---
 
 <div class="contact-container">
@@ -21,8 +22,8 @@ visible: true
 	</div>
 	<div>
 		<h3>Address</h3>
-		<p>
-			{{site.Address}}
+		<p id="address">
+			{{- site.Address | strip -}}
 		</p>
 	</div>
 </div>
