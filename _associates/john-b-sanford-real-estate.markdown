@@ -9,5 +9,6 @@ Info: |-
   12909 Lantana Trail
   Buda, Texas 78610
 URL: http://johnbsanford.com/
+order: 6
 ---
 

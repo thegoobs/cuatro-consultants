@@ -2,10 +2,12 @@
 title: Associates
 layout: page
 visible: true
+order: 4
 ---
 
 <div class="associate-container">
-	{% for associate in site.associates %}
+	{% assign associates = site.associates | sort: 'order' %}
+	{% for associate in associates %}
 		<div class="associate-entry">
 			<a href="{{associate.URL}}">
 				<h3 class="associate-title">
