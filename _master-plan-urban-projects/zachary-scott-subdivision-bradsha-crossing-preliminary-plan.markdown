@@ -1,5 +1,5 @@
 ---
-title: Zachary Scott Subdivision (Bradsha Crossing) Preliminary Plan
+title: Zachary Scott Subdivision (Bradshaw Crossing) Preliminary Plan
 date: 2018-06-11 15:19:00 Z
 Location: Austin, Travis County, Texas
 Image: 
