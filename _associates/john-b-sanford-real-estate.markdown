@@ -10,5 +10,6 @@ Info: |-
   Buda, Texas 78610
 URL: http://johnbsanford.com/
 order: 6
+Category: Real Estate
 ---
 

@@ -9,6 +9,13 @@ $hero: url("images/hero/hero1.png");
 	white-space: pre;
 }
 
-.employee-entry p {
-	margin: 0;
+
+.associate-container {
+	display: flex;
+	justify-content: space-around;
+
+	@media screen and (max-width: $screen_medium) {
+		display: block;
+		text-align: center;
+	}
 }
