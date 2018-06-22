@@ -6,20 +6,45 @@ order: 4
 ---
 
 <div class="associate-container">
-	{% assign associates = site.associates | sort: 'order' %}
-	{% for associate in associates %}
-		<div class="associate-entry">
-			<a href="{{associate.URL}}">
-				<h3 class="associate-title">
-					{{associate.title}}
-				</h3>
-			</a>
+{% capture group %}{% for a in site.associates %}{{- a.Category -}},{% endfor %}{% endcapture %}
 
-			<p class="associate-subtitle">
-				{{- associate.Info | lstrip -}}
-			</p>
+{% assign groups = group | split: ',' | uniq %}
+{% for group in groups %}
+	<div class="associate-group">
+		<div>
+			<h2>{{group}}</h2>
+			<hr/>
 		</div>
-	{% endfor %}
+		{% assign associates_in_group = site.associates | where: 'Category', group %}
+		{% for associate in associates_in_group %}
+			<div class="associate-entry">
+				<a href="{{associate.URL}}">
+					<h3 class="associate-title">
+						{{associate.title}}
+					</h3>
+				</a>
+
+				<p class="associate-subtitle">
+					{{- associate.Info | lstrip -}}
+				</p>
+			</div>
+		{% endfor %}
+	</div>
+{% endfor %}
+<!-- 		{% for associate in associates %}
+			<div class="associate-entry">
+				<a href="{{associate.URL}}">
+					<h3 class="associate-title">
+						{{associate.title}}
+					</h3>
+				</a>
+
+				<p class="associate-subtitle">
+					{{- associate.Info | lstrip -}}
+					{{ associate.Category}}
+				</p>
+			</div>
+	{% endfor %} -->
 </div>
 
 <br/>
