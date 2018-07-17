@@ -72,6 +72,7 @@ markdown: kramdown
 kramdown:
   hard_wrap: false
 logo: "/uploads/logo.png"
+icon: "/uploads/favicon.ico"
 hero:
 - assets/images/hero/hero1.png
 - assets/images/hero/hero2.png
