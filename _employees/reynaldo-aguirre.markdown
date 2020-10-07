@@ -1,6 +1,8 @@
 ---
 title: Reynaldo Aguirre
 date: 2020-10-07 19:17:00 Z
-Field name: 
+Position: CAD Technician
+Phone: Ext.6
+Email: ray@cuatroconsultants.com
 ---
 
