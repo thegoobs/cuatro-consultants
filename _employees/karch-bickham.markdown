@@ -1,9 +1,9 @@
 ---
-title: John Zalfow
+title: Karch Bickham
 date: 2018-06-19 19:58:00 Z
-Position: Graduate Engineer
-Email: john@cuatroconsultants.com
-Phone: Ext. 8
-order: 8
+Position: Project Engineer
+Email: karch@cuatroconsultants.com
+Phone: Ext. 2
+order: 3
 ---
 
