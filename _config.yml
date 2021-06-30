@@ -30,6 +30,9 @@ collections:
     output: true
     project_list: true
     image: ''
+  services:
+    title: Services
+    output: true
   site-development-projects:
     title: Site Development Projects
     output: true
