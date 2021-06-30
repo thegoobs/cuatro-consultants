@@ -1,5 +1,5 @@
 ---
-title: Chris Elizondo, E.I.T,S.I.T.
+title: Chris Elizondo, E.I.T, S.I.T.
 date: 2018-06-11 14:49:00 Z
 Position: Project Manager
 Phone: Ext. 2
