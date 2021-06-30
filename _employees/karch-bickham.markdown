@@ -1,5 +1,5 @@
 ---
-title: Karch Bickham
+title: Karch Bickham, E.I.T.
 date: 2018-06-19 19:58:00 Z
 Position: Project Engineer
 Email: karch@cuatroconsultants.com
