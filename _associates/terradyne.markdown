@@ -1,5 +1,5 @@
 ---
-title: Intec-Terradyne
+title: Terradyne
 date: 2018-06-11 16:05:00 Z
 Info: |-
   Geotechnical
