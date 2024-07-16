@@ -58,11 +58,11 @@ defaults:
     type: pages
   values:
     layout: page
-Description: Cuatro Consultants, Ltd. is a civil engineering/consulting Firm offering
-  a full range of design, permitting, and land development services throughout the
-  Austin metropolitan and Central Texas area.  We serve a diverse Clientele ranging
-  from individuals and small local companies to large national corporations.  We assist
-  our Clients through all phases of their Projects, starting with concept development
+Description: Cuatro Consultants, Ltd. is a civil engineering and consulting engineering
+  firm offering a wide range of land entitlement, permitting, design, and land development
+  services throughout the Central and West Texas area.  We serve diverse Clientele
+  ranging from individual landowners and local companies to large national corporations.  We
+  assist our Client through all phases of the Project, starting with concept development
   and ending with construction completion.
 permalink: pretty
 Email: cuatro@cuatroconsultants.com
