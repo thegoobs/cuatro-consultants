@@ -1,6 +1,6 @@
 ---
-title: Chris Elizondo, E.I.T, S.I.T.
-date: 2018-06-11 14:49:00 Z
+title: Chris Elizondo, P.E., S.I.T.
+date: 2018-06-11 09:49:00 -05:00
 Position: Project Manager
 Phone: Ext. 2
 Email: chris@cuatroconsultants.com​​

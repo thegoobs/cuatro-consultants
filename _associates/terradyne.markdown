@@ -1,6 +1,6 @@
 ---
-title: Intec-Terradyne
-date: 2018-06-11 16:05:00 Z
+title: Terradyne
+date: 2018-06-11 11:05:00 -05:00
 Info: |-
   Geotechnical
   (512) 252-1218
