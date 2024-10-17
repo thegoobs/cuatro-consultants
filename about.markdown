@@ -7,7 +7,7 @@ order: 2
 
 Cuatro Consultants, Ltd. offers a wide range of consulting engineering, land entitlement, and civil engineering services.  Our services include site layouts, subdivision layout, land development consulting; local, state and federal permitting; public works design, floodplain analysis, structural design, and construction administration services.
 
-Our Mission is to provide an integrated, practical and sustainable approach to the design and construction of land development and building projects.   Our Staff is experienced in land development, consulting, construction, and project administration.  Cuatro teams with planning, geotechnical, traffic, surveying, hydrogeologists, geologists, and other specialty firms to provide a "one-stop" shop for our Clients.
+Our Mission is to provide an integrated, practical and sustainable approach to the design and construction of land development and building projects.  Our Staff is experienced in land development, consulting, construction, and project administration.  Cuatro teams with planning, geotechnical, traffic, surveying, hydrogeologists, geologists, and other specialty firms to provide a "one-stop" shop for our Clients.
 
 ​Our Firm excels in accurate preliminary engineering and planning to determine Project feasibility and land yield.  Cuatro permits commercial site development work in Cities and Counties in Central Texas.  Cuatro prepares construction drawings and specifications for approval by municipalities, counties, TxDOT, TCEQ, LCRA, and other regulatory agencies.
 
