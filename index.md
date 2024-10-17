@@ -6,8 +6,8 @@ order: 1
 layout: default
 ---
 
-Since its inception in 2001, Cuatro Consultants, Ltd. built an extensive resume of successful design and development Projects.  Cuatro strives to provide unique and innovative engineering solutions to challenging technical problems using a holistic approach balancing regulatory, design and constructability elements.  We value service and measure our worth in terms of each Client’s success. 
+Cuatro Consultants, Ltd. has served our Clients since 2001 and built an extensive resume of successful design Projects.  Cuatro strives to provide unique and innovative engineering solutions to challenging technical problems using a holistic approach to regulatory, design and constructability elements.  We place the utmost priority on service and measure our worth in terms of each Client’s success. 
 
-Cuatro professionals have extensive construction experience and Projects are value-engineered during each phase of design.
+Cuatro professionals have extensive construction experience and we value-engineer our Projects during every phase of design.
 
-__Let our Cuatro Consultants team be a part of your next land effluent venture or land subdivision, or site permitting needs.  Our professional staff assists through every phase of entitlement including conceptual layout, yield analysis, zoning requirements, and construction cost analysis.__
+__Let our Cuatro Consultants, Ltd. be a part of your next Project or development venture.  Our professional staff assists you through every phase of Project development to its successful completion.__
