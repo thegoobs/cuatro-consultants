@@ -7,9 +7,9 @@ The Emerson at Buda is a multi-family residential community approved as a Develo
 
 The Project includes the following:
                                            
-*Buildings:				   144,646   square feet
-*Garages:				    15,104   square feet
-*Paving Area:		                   197,931   square feet
-*Sidewalks and other Concrete:		    61,565   square feet
+* Buildings:				   144,646   square feet
+* Garages:				    15,104   square feet
+* Paving Area:		                   197,931   square feet
+* Sidewalks and other Concrete:		    61,565   square feet
     
             	
