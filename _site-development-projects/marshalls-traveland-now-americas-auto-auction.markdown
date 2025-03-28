@@ -1,5 +1,5 @@
 ---
-title: Marshall’s Traveland (Now America's Auto Auction)
+title: Marshall’s Traveland (America's Auto Auction)
 date: 2018-06-11 10:44:00 -05:00
 Location: Buda, Hays County, Texas
 Image: 
