@@ -1,6 +1,6 @@
 ---
-title: Unifirst
-date: 2018-06-11 15:47:00 Z
+title: Unifirst, Austin, Texas
+date: 2018-06-11 10:47:00 -05:00
 Location: Austin, Travis County, Texas
 Image: 
 ---
