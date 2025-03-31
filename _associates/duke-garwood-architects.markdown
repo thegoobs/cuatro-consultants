@@ -1,6 +1,6 @@
 ---
 title: Duke Garwood Architects
-date: 2018-06-11 16:01:00 Z
+date: 2018-06-11 11:01:00 -05:00
 Info: |-
   Architect
   Duke Garwood, AIA, Owner
@@ -10,6 +10,6 @@ Info: |-
   Austin, Texas 78746
 URL: 
 order: 2
-Category: Consulting
+Category: Consultants
 ---
 
