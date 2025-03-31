@@ -1,6 +1,6 @@
 ---
 title: CELCO Surveying
-date: 2018-06-11 16:07:00 Z
+date: 2018-06-11 11:07:00 -05:00
 Info: |-
   Surveying
   George Lucus, RPLS, Owner
@@ -10,6 +10,6 @@ Info: |-
   New Braunfels, Texas 78130
 URL: 
 order: 4
-Category: Construction
+Category: Consultants
 ---
 
