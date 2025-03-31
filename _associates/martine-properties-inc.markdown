@@ -1,6 +1,6 @@
 ---
 title: Martine Properties, Inc.
-date: 2018-06-11 16:05:00 Z
+date: 2018-06-11 11:05:00 -05:00
 Info: |-
   Real Estate
   Scott Hemphill, Owner
@@ -10,6 +10,6 @@ Info: |-
   Austin, Texas 78704
 URL: 
 order: 3
-Category: Real Estate
+Category: 'Real Estate / Financial '
 ---
 
