@@ -1,6 +1,6 @@
 ---
 title: Robert Judd & Associates
-date: 2018-06-11 16:00:00 Z
+date: 2018-06-11 11:00:00 -05:00
 Info: |-
   Architect
   Rubert Judd, AIA, Owner
@@ -9,6 +9,6 @@ Info: |-
   West Lake Hills, Texas 78746
 URL: 
 order: 5
-Category: Consulting
+Category: Consultants
 ---
 
