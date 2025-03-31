@@ -1,6 +1,6 @@
 ---
 title: MLA Geotechnical Labs
-date: 2018-06-11 16:06:00 Z
+date: 2018-06-11 11:06:00 -05:00
 Info: |-
   Geotechnical
   (512) 873-8899
@@ -9,6 +9,6 @@ Info: |-
   Austin, Texas 78758
 URL: http://mlageotech.com/
 order: 7
-Category: Construction
+Category: Construction / Testing
 ---
 
