@@ -1,6 +1,6 @@
 ---
 title: John B. Sanford Real Estate
-date: 2018-06-11 16:04:00 Z
+date: 2018-06-11 11:04:00 -05:00
 Info: |-
   Real Estate
   John B. Sanford, Owner
@@ -10,6 +10,6 @@ Info: |-
   Buda, Texas 78610
 URL: http://johnbsanford.com/
 order: 6
-Category: Real Estate
+Category: 'Real Estate / Financial '
 ---
 
