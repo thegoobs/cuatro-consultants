@@ -1,6 +1,6 @@
 ---
 title: Terradyne
-date: 2018-06-11 16:05:00 Z
+date: 2018-06-11 11:05:00 -05:00
 Info: |-
   Geotechnical
   (512) 252-1218
@@ -9,6 +9,6 @@ Info: |-
   Austin, Texas 78754
 URL: http://terradyne.com/
 order: 10
-Category: Construction
+Category: Construction / Testing
 ---
 
